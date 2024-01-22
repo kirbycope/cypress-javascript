@@ -13,7 +13,9 @@
 1. Run `npm install`
 
 ## Run Tests
-1. Run `npm run cypress:open`
+1. In the integrated terminal run `npx cypress run`
+1. Select "E2E Testing"
+1. Select "Start E2E Testing in Chrome"
 
 ----
 
