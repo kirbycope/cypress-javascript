@@ -4,6 +4,7 @@
   "description": "An example test automation suite using Cypress and JavaScript.",
   "main": "index.js",
   "scripts": {
+    "cypress:open": "cypress open",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kirbycope/cypress-javascript/issues"
   },
-  "homepage": "https://github.com/kirbycope/cypress-javascript#readme"
+  "homepage": "https://github.com/kirbycope/cypress-javascript#readme",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
 }
