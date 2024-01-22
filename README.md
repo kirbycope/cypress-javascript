@@ -14,8 +14,6 @@
 
 ## Run Tests
 1. In the integrated terminal run `npx cypress run`
-1. Select "E2E Testing"
-1. Select "Start E2E Testing in Chrome"
 
 ----
 
