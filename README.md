@@ -11,8 +11,7 @@
    * If you use [GitHub Desktop](https://desktop.github.com/), select the "Open in Visual Studio" button
 1. Open the [integrated terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
 1. Run `npm init`
-1. Run `npm install cypress --save-dev` to install the latest version of Cypress
-
-https://docs.cypress.io/guides/getting-started/installing-cypress
+   * Hit [Enter] until the project is generated.
+1. Run `npm install cypress --save-dev` to install the latest version of Cypress as a dev dependency.
 
 ## Run Tests

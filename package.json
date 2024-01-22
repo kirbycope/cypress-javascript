@@ -1,0 +1,19 @@
+{
+  "name": "cypress-javascript",
+  "version": "1.0.0",
+  "description": "An example test automation suite using Cypress and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirbycope/cypress-javascript.git"
+  },
+  "author": "Timothy Cope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbycope/cypress-javascript/issues"
+  },
+  "homepage": "https://github.com/kirbycope/cypress-javascript#readme"
+}
